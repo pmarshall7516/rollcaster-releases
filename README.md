@@ -1,6 +1,6 @@
 # Rollcasters
 
-![Rollcasters logo](src/assets/rollcasters-logo.webp)
+![Rollcasters logo](assets/rollcasters-logo.webp)
 
 **Roll. Fight. Collect.**
 
